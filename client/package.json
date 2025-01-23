@@ -17,7 +17,8 @@
     "react-router-dom": "^6.28.0",
     "react-scripts": "5.0.1",
     "redux": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage":"https://nainaa04.github.io/expense-management"
   },
   "scripts": {
     "start": "react-scripts start",
